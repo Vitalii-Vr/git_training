@@ -1,16 +1,23 @@
-commit 8ed2dee31e9f01e394d591fbc03c657dbcc325d4
+commit 73d12649568221893251eb1cf7642febb3cd4444
 Author: Oleksandra Bella <alexandrabella42@gmail.com>
 Date:   Tue Aug 21 18:12:01 2018 +0300
 
     add 8 to file2
 
-commit e2a72484531042c04464c36a4f95eedbff2b664b
+commit 98769326904f7f6f30da705058dea2ed583ad904
+Merge: d03b6cb ad85577
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Thu Mar 18 18:12:32 2021 +0200
+
+    Merge branch 'branch1'
+
+commit ad85577383469c003810c150ada77d87e5122f4b
 Author: Oleksandra Bella <alexandrabella42@gmail.com>
 Date:   Tue Aug 21 18:11:37 2018 +0300
 
     add 7 to file2
 
-commit 219d7f219715ddb213cb00ff9c8901a166ea6ae8
+commit 93666d4cb0944a00063793f4842a037dc7fb01b9
 Author: Oleksandra Bella <alexandrabella42@gmail.com>
 Date:   Tue Aug 21 18:11:08 2018 +0300
 
