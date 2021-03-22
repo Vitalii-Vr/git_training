@@ -1,0 +1,54 @@
+commit b5fc7bafd9c416ea65ec5bd0e4125d202ff26ccf
+Merge: 19c9c98 55f422e
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Thu Mar 18 19:00:39 2021 +0200
+
+    Resolve conflict
+
+commit 55f422e600a9a710774ec722e684217942c279d3
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Thu Mar 18 18:38:39 2021 +0200
+
+    Add another number to shared_file
+
+commit 19c9c98ecc5ac69ff07d89c4eff0e9cf8289a8c7
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Thu Mar 18 18:36:36 2021 +0200
+
+    Add shared_file
+
+commit 35c4140785a82319932045fdcb968df14edb453f
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Thu Mar 18 18:25:55 2021 +0200
+
+    Home task 1 fix
+
+commit feaf84007c7a75f9b8b905c209094d3edda1b55b
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Thu Mar 18 18:20:38 2021 +0200
+
+    Home task 2 fix
+
+commit d37b194e9c26b1024169b6d5ff570240301ba468
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Thu Mar 18 17:39:07 2021 +0200
+
+    Commit from branch vitalii
+
+commit 9859e1dd42b9e3c12288e26eaea4520be1336509
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Thu Mar 18 17:33:52 2021 +0200
+
+    Home task 2
+
+commit cf34e70074d772850d5a1842816cf0b37ce4286a
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Thu Mar 18 13:35:59 2021 +0200
+
+    Home task 1
+
+commit f800fa7665d7c81b1d0cdd284a3218cebb9874b7
+Author: Vitalii-Vr <80689312+Vitalii-Vr@users.noreply.github.com>
+Date:   Thu Mar 18 13:31:46 2021 +0200
+
+    Initial commit
