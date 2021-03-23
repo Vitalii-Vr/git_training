@@ -17,13 +17,8 @@ done
 tracked=`git ls-files`
 echo $tracked >> tracked_files
 
-list_file=`ls`
-for file in $list_file
-do
-    if [[ $file != $tracked ]]; then
-        echo $file >> untracked_files
-    fi
-done
+untracked_files=`git ls-files -o`
+echo $untracked_files >> untracked_files
 
 git reset HEAD~ 
 git add tracked_files untracked_files

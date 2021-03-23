@@ -13,3 +13,4 @@ do
     git add my_file
     git commit -m "Add $num to file my_file"  
 done
+

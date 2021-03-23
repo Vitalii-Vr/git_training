@@ -1,0 +1,37 @@
+commit 6a19e3817327560a0916702ca2a70f20f1b2995e
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Tue Mar 23 11:18:54 2021 +0200
+
+    Add tracked and untracked files
+
+commit dcac453cda231786d43f59b5eb42fa5a8fb61cba
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Tue Mar 23 11:18:14 2021 +0200
+
+    Add 2 to file my_file
+
+commit 7175e484605be44326f8c512cbd9d2903b4ab797
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Tue Mar 23 11:18:13 2021 +0200
+
+    Add 1 to file my_file
+commit 6a19e3817327560a0916702ca2a70f20f1b2995e
+Author: Vitalii-Vr <vitalii.vrublevskyi@plvision.eu>
+Date:   Tue Mar 23 11:18:54 2021 +0200
+
+    Add tracked and untracked files
+
+diff --git a/tracked_files b/tracked_files
+new file mode 100644
+index 0000000..bd41540
+--- /dev/null
++++ b/tracked_files
+@@ -0,0 +1 @@
++my_file
+diff --git a/untracked_files b/untracked_files
+new file mode 100644
+index 0000000..43d6171
+--- /dev/null
++++ b/untracked_files
+@@ -0,0 +1 @@
++.gitignore text1.txt text2.txt tracked_files untracked_files
